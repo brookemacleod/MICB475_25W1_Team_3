@@ -14,17 +14,17 @@ Idea 2: Houria!
 
 Idea 3: Brooke
 - Dataset: Multiple Sclerosis
-- Background:
+- Possible research questions:
+- 1) How does MS treatment affect the gut microbiome? (Treatments tend to control/reduce immune system inflammation)
+  2) Do untreated patients with RRMS have different microbiomes compared to those with PPMS? (RRMS is associated with more inflammation than PPMS). How does treatment affect the microbiome in both of these cases?
+ 
+Idea 4: Brooke
+- Dataset: N/A (This is just a personal interest, we would need to find datasets if anyone is interested)
+- - Background:
 - -Vitamin K supplementation may play a role in preventing/slowing down atherosclerosis
   - It has been suggested the Vitamin K plays a role in activating proteins that inhibit calcium deposits in tissues
   - There may be a synergistic effect with Vitamin K and Vitamin D
   - Some studies have linked Vitamin K1 intake to a lower risk of aortic stenosis, but Vitamin K2 study did not find that it was able to slow the progression 
 - Possible research questions:
-- 1) How does MS treatment affect the gut microbiome? (Treatments tend to control/reduce immune system inflammation)
-  2) Do untreated patients with RRMS have different microbiomes compared to those with PPMS? (RRMS is associated with more inflammation than PPMS). How does treatment affect the microbiome in both of these cases?
-  3) How does Vitamin K affect the microbiome in patients with atherosclerosis? How does Vitamin D affect the microbiome in these patients? Is the microbiome different when both vitamins are used? 
- 
-Idea 4: Brooke
-- Dataset: N/A (This is just a personal interest, we would need to find datasets if anyone is interested)
-- Possible research questions:
-- 1) How does vitamin K supplementation affect the gut microbiome in patients with atherosclerosis? Does it become more similar to a healthy control? 
+- 1) How does vitamin K supplementation affect the gut microbiome in patients with atherosclerosis? Does it become more similar to a healthy control?
+  2) How does Vitamin K affect the microbiome in patients with atherosclerosis? How does Vitamin D affect the microbiome in these patients? Is the microbiome different when both vitamins are used? 
